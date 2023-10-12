@@ -1,2 +1,2 @@
-# Bird-Classificartion
+# Bird-Classification
 project during academic journey
